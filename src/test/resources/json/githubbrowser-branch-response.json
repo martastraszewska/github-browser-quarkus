@@ -1,0 +1,18 @@
+[
+  {
+    "name": "master",
+    "commit": {
+      "sha": "646cacf7ff4eb6788e4f87b1de0182b1dd764e67",
+      "url": "https://api.github.com/repos/martastraszewska/GitHubBrowser/commits/646cacf7ff4eb6788e4f87b1de0182b1dd764e67"
+    },
+    "protected": false
+  },
+  {
+    "name": "test-branch",
+    "commit": {
+      "sha": "482d637cb29da18dd9df0dbd3b6b0c535340258a",
+      "url": "https://api.github.com/repos/martastraszewska/GitHubBrowser/commits/482d637cb29da18dd9df0dbd3b6b0c535340258a"
+    },
+    "protected": false
+  }
+]

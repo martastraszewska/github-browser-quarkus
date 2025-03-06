@@ -1,0 +1,26 @@
+[
+  {
+    "repositoryName": "CustomerManagement",
+    "ownerLogin": "martastraszewska",
+    "branches": [
+      {
+        "branchName": "master",
+        "commitSha": "7dfbae43ac93229821e88b57a5334632a6b80eb4"
+      }
+    ]
+  },
+  {
+    "repositoryName": "GitHubBrowser",
+    "ownerLogin": "martastraszewska",
+    "branches": [
+      {
+        "branchName": "master",
+        "commitSha": "646cacf7ff4eb6788e4f87b1de0182b1dd764e67"
+      },
+      {
+        "branchName": "test-branch",
+        "commitSha": "482d637cb29da18dd9df0dbd3b6b0c535340258a"
+      }
+    ]
+  }
+]
