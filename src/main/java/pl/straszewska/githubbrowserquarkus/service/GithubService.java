@@ -38,7 +38,6 @@ public class GithubService {
                                 return Uni.createFrom().item(List.of());
                             } else {
                                 return Uni.join().all(repositories.stream().map(this::getBranchesForRepository).toList())
-                                        .usingConcurrencyOf(1)
                                         .andFailFast();
                             }
 
